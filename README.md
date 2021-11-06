@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m currently working on an eCommerce website.
+🔭 I’m currently working on an eCommerce website.</be>
 🌱 I’m currently continuing to learn more.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?davoodkhoshnood=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davoodkhoshnood)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **DavoodKhoshnood/davoodkhoshnood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
