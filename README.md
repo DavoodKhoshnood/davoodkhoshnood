@@ -2,8 +2,10 @@
 
 - 🔭 I’m currently working on an eCommerce website.
 - 🌱 I’m currently continuing to learn more.
-![gitartwork](gitartwork.svg)
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davoodkhoshnood)](https://github.com/anuraghazra/github-readme-stats)
+
+![gitartwork](gitartwork.svg)
 
 <!--
 **DavoodKhoshnood/davoodkhoshnood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
