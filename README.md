@@ -14,6 +14,12 @@
 <a href=''><img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/></a> 
 <a href=''><img src="https://img.icons8.com/ios-filled/50/000000/react-native.png"/></a> 
 <a href=''><img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></a> 
+<a href=''><img src="https://img.icons8.com/windows/50/000000/json.png"/></a> 
+<a href=''><img src="https://img.icons8.com/external-outline-juicy-fish/50/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png"/></a> 
+<a href=''><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png"/></a> 
+<a href=''><img src="https://img.icons8.com/officel/50/000000/delphi-ide.png"/></a> 
+<a href=''><img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png"/></a> 
+<a href=''><img src="https://img.icons8.com/ios-filled/50/000000/git.png"/></a> 
 <a href=''></a> 
 <a href=''></a> 
 
