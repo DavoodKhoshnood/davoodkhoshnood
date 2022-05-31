@@ -8,6 +8,7 @@
 <a href='https://stackoverflow.com/users/14723812/davood-khoshnood'><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" title="Stackoverflow"/></a> 
 <a href='https://codepen.io/davoodkhoshnood'><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" title="CodePen"/></a> 
 <a href='https://www.hackerrank.com/davoodkhoshnood'><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" title="HackerRank"/></a> 
+
 <a href=''><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" title="HTML"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/css3.png" title="CSS"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/sass.png" title="Sass"/></a> 
@@ -23,7 +24,7 @@
 <a href=''><img src="https://img.icons8.com/ios-filled/50/000000/git.png" title="git"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/windows8.png" title="Windows"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/linux--v1.png" title="Linux"/></a> 
-<a href=''></a> 
+<a href='https://www.codewars.com/users/davood'><span class="iconify" data-icon="simple-icons:codewars" style="color: #b1361e;"></span></a> 
 <a href=''></a> 
 <a href=''></a> 
 <a href=''></a> 
