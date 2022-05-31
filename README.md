@@ -3,6 +3,8 @@
 - 🔭 I’m currently working on an eCommerce website.
 - 🌱 I’m currently continuing to learn more.
 
+<img src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/> <a href='https://www.linkedin.com/in/davoodkhoshnood/'> in/davoodkhoshnood </a> 
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davoodkhoshnood)](https://github.com/anuraghazra/github-readme-stats)
 
 
