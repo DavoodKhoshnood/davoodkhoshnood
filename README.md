@@ -5,13 +5,13 @@
 
 <a href='https://www.linkedin.com/in/davoodkhoshnood/'><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a> 
 <a href='info@khoshnood.uk/'><img src="https://img.icons8.com/material-rounded/50/000000/new-post.png"/></a> 
-<a href='https://stackoverflow.com/users/14723812/davood-khoshnood'><img src="https://img.icons8.com/ios-filled/50/000000/stackoverflow.png"/></a> 
+<a href='https://stackoverflow.com/users/14723812/davood-khoshnood'><img src="https://img.icons8.com/color/50/000000/stackoverflow.png"/></a> 
 <a href='https://codepen.io/davoodkhoshnood'><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a> 
 <a href='https://www.hackerrank.com/davoodkhoshnood'><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a> 
 <a href=''></a> 
+<a href=''></a> 
 
 
-https://codepen.io/davoodkhoshnood
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=davoodkhoshnood)](https://github.com/anuraghazra/github-readme-stats)
 
 
