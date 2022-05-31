@@ -22,10 +22,10 @@
 <a href=''><img src="https://img.icons8.com/officel/50/000000/delphi-ide.png" title="Borland Delphi"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png" title="C#"/></a> 
 <a href=''><img src="https://img.icons8.com/ios-filled/50/000000/git.png" title="git"/></a> 
+<a href=''><img src="https://img.icons8.com/color-glass/50/undefined/wordpress.png" title="Wordpress"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/windows8.png" title="Windows"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/linux--v1.png" title="Linux"/></a> 
 <a href='https://www.codewars.com/users/davood'><span class="iconify" data-icon="simple-icons:codewars" style="color: #b1361e;"></span></a> 
-<a href=''></a> 
 <a href=''></a> 
 <a href=''></a> 
 <a href=''></a> 
