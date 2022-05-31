@@ -3,11 +3,17 @@
 - 🔭 I’m currently working on an eCommerce website.
 - 🌱 I’m currently continuing to learn more.
 
-<a href='https://www.linkedin.com/in/davoodkhoshnood/'><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a> 
+<a href='https://www.linkedin.com/in/davoodkhoshnood/' alt="www.linkedin.com"><img src="https://img.icons8.com/color/50/000000/linkedin.png"/></a> 
 <a href='info@khoshnood.uk/'><img src="https://img.icons8.com/material-rounded/50/000000/new-post.png"/></a> 
 <a href='https://stackoverflow.com/users/14723812/davood-khoshnood'><img src="https://img.icons8.com/color/50/000000/stackoverflow.png"/></a> 
 <a href='https://codepen.io/davoodkhoshnood'><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png"/></a> 
 <a href='https://www.hackerrank.com/davoodkhoshnood'><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png"/></a> 
+<a href=''><img src="https://img.icons8.com/color/50/000000/html-5--v1.png"/></a> 
+<a href=''><img src="https://img.icons8.com/color/50/000000/css3.png"/></a> 
+<a href=''><img src="https://img.icons8.com/color/50/000000/sass.png"/></a> 
+<a href=''><img src="https://img.icons8.com/color/50/000000/javascript--v1.png"/></a> 
+<a href=''><img src="https://img.icons8.com/ios-filled/50/000000/react-native.png"/></a> 
+<a href=''><img src="https://img.icons8.com/fluency/50/000000/node-js.png"/></a> 
 <a href=''></a> 
 <a href=''></a> 
 
