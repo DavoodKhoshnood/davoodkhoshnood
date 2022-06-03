@@ -26,8 +26,8 @@
 <a href=''><img src="https://img.icons8.com/color/50/000000/windows8.png" title="Windows"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/linux--v1.png" title="Linux"/></a> 
 <a href='https://www.codewars.com/users/davood'><span class="iconify" data-icon="simple-icons:codewars" style="color: #b1361e;"></span></a> 
-<a href=''> <img src="https://img.icons8.com/color/48/undefined/trello.png" title="Trello"/> </a> 
-<a href=''></a> 
+<a href=''> <img src="https://img.icons8.com/color/50/undefined/trello.png" title="Trello"/> </a> 
+<a href=''> <img src="https://img.icons8.com/ios-filled/50/undefined/jira.png" title="Jira"/> </a> 
 <a href=''></a> 
 
 
