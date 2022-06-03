@@ -6,6 +6,7 @@
 <a href='https://www.linkedin.com/in/davoodkhoshnood/'><img src="https://img.icons8.com/color/50/000000/linkedin.png" title="Linkedin"/></a> 
 <a href='info@khoshnood.uk/'><img src="https://img.icons8.com/material-rounded/50/000000/new-post.png" title="Email"/></a> 
 <a href='https://stackoverflow.com/users/14723812/davood-khoshnood'><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" title="Stackoverflow"/></a> 
+<a href='https://www.codewars.com/users/davood'><img style="width:50px;" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJBMbJ1iK6JGCD-N8efD8UIu5rO_o1ROaZksrdmL3uWIrGMUM&s"/></a>
 <a href='https://codepen.io/davoodkhoshnood'><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" title="CodePen"/></a> 
 <a href='https://www.hackerrank.com/davoodkhoshnood'><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" title="HackerRank"/></a> 
 
@@ -25,7 +26,6 @@
 <a href=''><img src="https://img.icons8.com/color-glass/50/undefined/wordpress.png" title="Wordpress"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/windows8.png" title="Windows"/></a> 
 <a href=''><img src="https://img.icons8.com/color/50/000000/linux--v1.png" title="Linux"/></a> 
-<a href='https://www.codewars.com/users/davood'><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJBMbJ1iK6JGCD-N8efD8UIu5rO_o1ROaZksrdmL3uWIrGMUM&s"/></a>
 <a href=''> <img src="https://img.icons8.com/color/50/undefined/trello.png" title="Trello"/> </a> 
 <a href=''> <img src="https://img.icons8.com/ios-filled/50/undefined/jira.png" title="Jira"/> </a> 
 <a href=''></a> 
