@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently learning TypeScript.
-
+<br />
 <a href='https://www.linkedin.com/in/davoodkhoshnood/'><img src="https://img.icons8.com/color/50/000000/linkedin.png" title="Linkedin"/></a> 
 <a href='info@khoshnood.uk/'><img src="https://img.icons8.com/material-rounded/50/000000/new-post.png" title="Email"/></a> 
 <a href='https://stackoverflow.com/users/14723812/davood-khoshnood'><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" title="Stackoverflow"/></a> 
