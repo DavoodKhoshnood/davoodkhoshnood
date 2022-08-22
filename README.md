@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently learning TypeScript.
+- 🔭 I’m currently working on an Job Application App for <a href='https://hackneymigrantcentre.org.uk/'>HMC</a> as CYF <a href="https://ldn8-migrantsity-final-project.herokuapp.com/">final project</a>.
+- 🌱 I’m currently learning **TypeScript**.
 <br />
 <a href='https://www.linkedin.com/in/davoodkhoshnood/'><img src="https://img.icons8.com/color/50/000000/linkedin.png" title="Linkedin"/></a> 
 <a href='info@khoshnood.uk/'><img src="https://img.icons8.com/material-rounded/50/000000/new-post.png" title="Email"/></a> 
