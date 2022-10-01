@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on an Job Application App for <a href='https://hackneymigrantcentre.org.uk/'>HMC</a> as CYF <a href="https://ldn8-migrantsity-final-project.herokuapp.com/">final project</a>.
+- 🔭 I’m currently working on an Job Application App for <a href='https://hackneymigrantcentre.org.uk/'>HMC</a> as CYF <a href="https://ldn8-migrantsity-final-.herokuapp.com/">final project</a>.
 - 🌱 I’m currently learning **TypeScript**.
 <br />
 <a href='https://www.linkedin.com/in/davoodkhoshnood/'><img src="https://img.icons8.com/color/50/000000/linkedin.png" title="Linkedin"/></a> 
@@ -17,7 +17,6 @@
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/officel/50/undefined/react.png" title="react.Js"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/fluency/50/000000/node-js.png" title="node.Js"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/windows/50/000000/json.png" title="JSON"/></a> 
-<a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/fluency/48/000000/docker.png" title="Docker"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/external-outline-juicy-fish/50/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png" title="SQL"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" title="PostgreSQL"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/officel/50/000000/delphi-ide.png" title="Borland Delphi"/></a> 
