@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on CYF projects</a>.
-/*- 🌱 I’m currently learning **DevOps and AWS**.*/
+<!--  🌱 I’m currently learning **DevOps and AWS**. -->
 <br />
 <a href='https://www.linkedin.com/in/davoodkhoshnood/'><img src="https://img.icons8.com/color/50/000000/linkedin.png" title="Linkedin"/></a> 
 <a href='info@khoshnood.uk/'><img src="https://img.icons8.com/material-rounded/50/000000/new-post.png" title="Email"/></a> 
