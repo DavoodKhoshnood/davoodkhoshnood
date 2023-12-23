@@ -1,5 +1,4 @@
 ### Hi there 👋
-
 - 🔭 I’m currently working on CYF projects</a>.
 <!--  🌱 I’m currently learning **DevOps and AWS**. -->
 <br />
@@ -34,7 +33,6 @@
 <a href='https://trello.com/'> <img src="https://img.icons8.com/color/50/undefined/trello.png" title="Trello"/> </a> 
 <a href='https://www.atlassian.com/software/jira?bundle=jira-software&edition=free'> <img src="https://img.icons8.com/ios-filled/50/undefined/jira.png" title="Jira"/> </a> 
 <a href=''></a> 
-
 
 <!--
 **DavoodKhoshnood/davoodkhoshnood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
