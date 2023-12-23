@@ -22,6 +22,7 @@
 <br/>
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/external-outline-juicy-fish/50/000000/external-sql-coding-and-development-outline-outline-juicy-fish.png" title="SQL"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/color/50/null/mongodb.png" title="MongoDB"/></a> 
+<a href='https://github.com/DavoodKhoshnood?tab=repositories'><img width="50" height="50" src="https://img.icons8.com/ios/50/prisma-orm.png" alt="prisma-orm" title="Prisma"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/50/000000/external-postgre-sql-a-free-and-open-source-relational-database-management-system-logo-color-tal-revivo.png" title="PostgreSQL"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/officel/50/000000/delphi-ide.png" title="Borland Delphi"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/color/50/000000/c-sharp-logo-2.png" title="C#"/></a> 
