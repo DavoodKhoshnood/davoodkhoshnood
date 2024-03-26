@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently working on Milo Ensemble website </a>.
+- 🔭 I’m currently working on Milo Ensemble website.
 <a href='https://miloensemble.com/'>miloensemble.com</a>
 <!--  🌱 I’m currently learning **DevOps and AWS**. -->
 <br />
