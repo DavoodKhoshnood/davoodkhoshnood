@@ -8,7 +8,7 @@
 <a href='https://stackoverflow.com/users/14723812/davood-khoshnood'><img src="https://img.icons8.com/color/50/000000/stackoverflow.png" title="Stackoverflow"/></a> 
 <a href='https://codepen.io/davoodkhoshnood'><img src="https://img.icons8.com/ios-filled/50/000000/codepen.png" title="CodePen"/></a> 
 <a href='https://www.hackerrank.com/davoodkhoshnood'><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-shadow-tal-revivo.png" title="HackerRank"/></a> 
-<a href='https://www.codewars.com/users/davood'><img width="50" height="50" src="https://img.icons8.com/small/50/000000/codewars.png" alt="codewars"title="Codewars"/></a>
+<a href='https://www.codewars.com/users/davood'><img width="50" height="50" src="https://icons8.com/icon/WtyjrpeFRGUj/codewars" alt="codewars" title="Codewars"/></a>
 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/color/50/000000/html-5--v1.png" title="HTML"/></a> 
 <a href='https://github.com/DavoodKhoshnood?tab=repositories'><img src="https://img.icons8.com/color/50/000000/css3.png" title="CSS"/></a> 
